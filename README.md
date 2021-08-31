@@ -1,6 +1,5 @@
-# Code Studio
-<p> A simple E-Learning Management System App</p> 
-<a href="https://codestudiolms.herokuapp.com">See on Heroku</a>
+# code_studio
+<p> A LMS App</p> 
 
 <h4>Build with:</h4>
 <ul>
@@ -16,4 +15,3 @@
   <li>A student can register for a class and read lessons.</li>
 </ul>
 <p>*Work in progress.</p>
-<i>This app was build for studying purposes only.</i>
